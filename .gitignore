@@ -1,0 +1,27 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other common files to ignore
+*.DS_Store
+*.egg-info/
+dist/
+build/
