@@ -1,6 +1,5 @@
 # Breakout Game
-
-![Breakout](static/assets/img/portfolio/breakout.png)
+![breakout](https://github.com/user-attachments/assets/f91e6ae8-db71-465e-859a-49b80e3ff7a9)
 
 ## Overview
 The **Breakout Game** is a classic arcade-style game developed using **Python** and the **Pygame** library. Players control a paddle to bounce a ball and break a wall of bricks. The game increases in difficulty as the player progresses, featuring faster ball speeds and more complex brick patterns.
