@@ -26,4 +26,8 @@ This project is an excellent opportunity to:
 - Explore **collision detection** and **graphical rendering** in Python.
 - Learn how to create interactive and entertaining programs.
 
+## screenshots
+![image](https://github.com/user-attachments/assets/f24d6d73-08bd-4e3d-bf79-f80f4ce4c692)
+
+
 
